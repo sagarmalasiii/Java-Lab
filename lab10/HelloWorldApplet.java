@@ -1,4 +1,7 @@
-package lab10;
+
+
+package javaapplication1;
+
 
 import java.applet.Applet;
 import java.awt.*;
